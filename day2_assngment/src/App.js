@@ -8,7 +8,7 @@ function App() {
     <>
       <div className="App">
         <h3>Mobile Operating System</h3>
-        <div></div>
+        
         <div>
           <ul>
             {name.map((e) => (
