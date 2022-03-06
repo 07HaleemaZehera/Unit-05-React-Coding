@@ -5,10 +5,10 @@ export function Counter(props){
     // console.log("Counter received props:",props)
     const [counter,setCounter]=useState(0);
     const handleChange=(value)=>{
-        setCounter(counter+2+value)
+        setCounter(counter+value)
     }
     const handleDouble=(value)=>{
-        setCounter(counter*2*value)
+        setCounter(counter*2)
     }
 
     return  <h3>
