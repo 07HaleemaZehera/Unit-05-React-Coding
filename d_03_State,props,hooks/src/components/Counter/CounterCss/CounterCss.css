@@ -1,0 +1,19 @@
+.heading{
+    color:blue;
+    background-color: yellowgreen;
+    text-align: center;
+    width:600px;
+    height: 300px;
+
+    
+}
+.name{
+    background-color: blueviolet;
+}
+button:hover{
+  color:aquamarine
+}
+/* heading:hover{
+    color: chocolate;
+    transition: margin-right 2s;
+} */
