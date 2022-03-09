@@ -8,7 +8,11 @@ export function Counter(props){
         setCounter(counter+value)
     }
     const handleDouble=(value)=>{
+
         setCounter(counter*value)
+
+        setCounter(counter*2)
+
     }
 
     return  <h3>
