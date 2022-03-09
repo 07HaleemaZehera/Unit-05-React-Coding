@@ -8,9 +8,9 @@
     
 }
 .name{
-    background-color: blueviolet;
+    background-color: rgb(144, 90, 194);
 }
-button:hover{
+.name:hover{
   color:aquamarine
 }
 /* heading:hover{
