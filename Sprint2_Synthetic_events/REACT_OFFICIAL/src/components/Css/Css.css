@@ -1,0 +1,99 @@
+/* .parent {
+  width: 90%;
+  background-color: rgb(243, 243, 243);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.input {
+  width: 90%;
+}
+
+.input1 {
+  margin-left: 100px;
+}
+
+.input2 {
+  margin-left: 112px;
+}
+
+.input3 {
+  margin-left: 90px;
+}
+
+.input4 {
+  margin-left: 62px;
+}
+
+.input5 {
+  margin-left: 97px;
+}
+
+.input6 {
+  margin-left: 47px;
+}
+
+.inputB {
+  margin-left: 150px;
+  width: 175px;
+  height: 30px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+}
+
+.inputC {
+  margin-left: 150px;
+  width: 175px;
+  height: 30px;
+  font-size: 20px;
+  background-color: rgb(114, 114, 114);
+  color: white;
+  text-align: center;
+}
+
+.parentChild {
+  width: 90%;
+  height: 30px;
+  border: .1px solid green;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lists {
+  width: 20%;
+  height: 100%;
+  border: 1px solid green;
+  text-align: center;
+}
+
+
+.parentChild2 {
+    width: 90%;
+    height: 30px;
+    border: .1px solid green;
+  background-color: green;
+    display: flex;
+    align-items: center;
+    color: white;
+    font-size: 17px;
+  }
+  
+  .lists2 {
+    width: 20%;
+    height: 100%;
+    border: 1px solid green;
+    text-align: center;
+  }
+   */
+
+   .css{
+     display: flex;
+     justify-content: space-between;
+     gap:30px;
+   }

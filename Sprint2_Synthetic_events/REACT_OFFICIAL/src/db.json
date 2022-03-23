@@ -1,0 +1,49 @@
+{
+    "posts": [{
+            "name": "MD MOIN",
+            "age": "43",
+            "address": "SANDALPUR",
+            "department": "BD",
+            "salary": "43543545",
+            "marital": "YES",
+            "id": 1
+        },
+        {
+            "name": "MD ANWAR",
+            "age": "53",
+            "address": "SANDALPUR",
+            "department": "DS",
+            "salary": "43432",
+            "marital": "NO",
+            "id": 2
+        },
+        {
+            "name": "MD SHAD",
+            "age": "554",
+            "address": "SANDALPUR",
+            "department": "GH",
+            "salary": "784343",
+            "marital": "YES",
+            "id": 3
+        },
+        {
+            "name": "DIL",
+            "age": "43",
+            "address": "SANDALPUR",
+            "department": "HD",
+            "salary": "434343",
+            "marital": "NO",
+            "id": 4
+        },
+        {
+            "name": "ZUHI",
+            "age": "43",
+            "address": "SANDALPUR",
+            "department": "DW",
+            "salary": "434343",
+            "marital": "NO",
+            "id": 5
+        }
+
+    ]
+}
