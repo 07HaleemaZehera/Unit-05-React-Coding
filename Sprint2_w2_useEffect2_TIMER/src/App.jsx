@@ -10,6 +10,9 @@ function App() {
     {show?<Timer/>:""}
      <button
      onClick={()=>{
+
+
+      // l.ehdouehd
       setShow(!show)
       
      }}
